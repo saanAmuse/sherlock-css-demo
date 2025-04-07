@@ -1,0 +1,27 @@
+/* Sherlock Demo Theme Override */
+
+.pm-grid {
+  border: 4px dashed red !important;
+  background-color: #fff8e1 !important;
+}
+
+.pm-clue {
+  font-size: 18px !important;
+  color: darkblue !important;
+  font-family: "Courier New", monospace !important;
+}
+
+.pm-puzzle-title {
+  color: crimson !important;
+  font-size: 24px !important;
+  font-weight: bold !important;
+}
+
+body {
+  background-color: #f0f0f0 !important;
+}
+
+.pm-toolbar, .pm-footer {
+  background-color: #222 !important;
+  color: white !important;
+}
